@@ -20,15 +20,12 @@ Minha meta é atuar como uma Engenheira de ML que, futuramente, utilizará essa 
 O programa está dividido em módulos temáticos, seguindo a jornada completa de um projeto de ML, desde a concepção até a sustentação:
 
 01-Introdução	Configuração de Ambiente, Introdução a MLOps e Projetos.
-
 ✅ Concluído
 
 02-Dados	Pré-processamento, EDA e Engenharia de Features. (A base para um modelo sólido).
-
 ✅ Concluído
 
 03-Modelagem	Algoritmos de ML, Treinamento, Otimização de Hiperparâmetros.	
-
 ⏳ Próximo
 
 🛠️ Stack Principal

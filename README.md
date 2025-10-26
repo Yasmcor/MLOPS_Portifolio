@@ -21,7 +21,9 @@ O programa está dividido em módulos temáticos, seguindo a jornada completa de
 
 Módulo	Foco Principal	Status	Diretório
 01-Introdução	Configuração de Ambiente, Introdução a MLOps e Projetos.	✅ Concluído	01-setup
+
 02-Dados	Pré-processamento, EDA e Engenharia de Features. (A base para um modelo sólido).	✅ Concluído	02-dados
+
 03-Modelagem	Algoritmos de ML, Treinamento, Otimização de Hiperparâmetros.	⏳ Próximo	03-modelagem
 
 🛠️ Stack Principal

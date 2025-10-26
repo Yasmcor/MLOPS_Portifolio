@@ -1,0 +1,54 @@
+#Exercício 1
+Utilizando esse conjunto de dados: https://www.kaggle.com/datasets/disham993/9000-movies-dataset
+
+Responda as seguintes perguntas:
+
+Qual tamanho do DataSet?
+Quantas linhas?
+Quantas colunas?
+Qual o tipo de variável de cada coluna?
+Qual o filme com maior número de votaçôes?
+Qual filme teve a maior nota (critério de desempate é o filme com mais votos)
+Existem valores nulos? Se sim, qual tratamento irá realizar? (Se não temos nome de algum filme, melhor nem considerar)
+Transforme as variaveis categóricas de linguagem e genero em númericas (utilize dummy)
+Normalize as variaveis numéricas
+Armazene esses valores como um artefato dentro do MLFlow
+QUais insights é possivel obter desses dados?
+
+#Exercício 2
+A partir do dataset enviado, responda:
+
+Importação e Análise Inicial
+Importe o arquivo CSV.(0,33)
+Quantas linhas tem o dataset?(0,33)
+Quantas colunas tem o dataset?(0,33)
+Quais colunas têm o tipo object?(0,34)
+Quais colunas têm o tipo int64?(0,34)
+Existe alguma coluna de outro tipo?(0,33)
+Análise Estatística
+Qual foi o total, o máximo, o mínimo do objetivo financeiro de todos os projetos (goal)?(0,66)
+Qual o total, o máximo, o mínimo e o valor que representa 25% do dinheiro levantado (pledged)?(0,67)
+Qual o total, o máximo, o mínimo e o valor que representa 75% dos apoiadores dos projetos(backers)?(0,67)
+Análise de Categorias
+Qual a category mais presente? E quantos valores únicos ela possui?(0,5)
+Qual a main_category mais presente? E quantos valores únicos ela possui?(0,5)
+Qual a currency mais presente? E quantos valores únicos ela possui?(0,5)
+Execute o processo de dummy na coluna country.(0,5)
+Análise de Valores Nulos
+Qual a quantidade de valores nulos em cada feature?(0,66)
+Qual a proporção de valores nulos por valores não nulos em cada feature?(0,66)
+Faça o tratamento desses nulos e explique por que escolheu cada método.(0,68)
+Visualização Gráfica
+Visualização Gráfica da feature state.(2)
+🧩 Desafio: ETL de Dados Públicos
+
+🎯 Objetivo Construir um pipeline ETL no Apache Airflow que:
+
+Extrai dados de algum dataset público
+
+Transforma os dados limpando, filtrando e unificando informações.
+
+Carrega o resultado em um banco de dados PostgreSQL (ou salva como Parquet).
+
+Agenda a execução diária do pipeline (simulando ingestão incremental).
+

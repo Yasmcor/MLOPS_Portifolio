@@ -5,13 +5,16 @@
 O objetivo deste programa é fazer uma transição robusta e prática, focando em como construir, versionar e sustentar modelos de ML em ambientes de produção, integrando minha experiência prévia em DataOps e Qualidade.
 
 🎯 Por Que MLOps?
-Minha experiência prévia me ensinou que um modelo só gera valor quando está em produção de forma confiável. Este programa foca na engenharia por trás do Machine Learning, preparando-me para:
 
-Garantir a qualidade e integridade dos dados que alimentam os modelos.
+Minha atuação em **Qualidade de Dados (QD)** no setor financeiro me deu uma visão clara: entendi que o **maior gargalo de valor e impacto** não está apenas na modelagem, mas sim na **produtização robusta, segura e escalável** dos modelos – o núcleo da EML.
 
-Versionar modelos e código, facilitando a reprodutibilidade.
+Este programa me capacita com as habilidades de engenharia necessárias para:
 
-Diagnosticar e corrigir falhas operacionais (Schema Drift, Data Drift) no pipeline de produção.
+* **Sustentabilidade de Modelo:** Corrigir falhas operacionais (*Schema Drift*, *Data Drift*) no pipeline de produção.
+* **Desenvolvimento Robusto:** Construir código limpo e versionado, garantindo a reprodutibilidade.
+* **Otimização de Performance:** Entregar modelos que rodam com segurança e baixa latência.
+
+Minha meta é atuar como uma Engenheira de ML que, futuramente, utilizará essa visão de produção para se tornar uma Cientista de Dados de altíssimo impacto.
 
 🧠 Estrutura da Tutoria
 O programa está dividido em módulos temáticos, seguindo a jornada completa de um projeto de ML, desde a concepção até a sustentação:

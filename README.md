@@ -31,3 +31,11 @@ Status: Concluída 📅
 Projeto final: projeto-mkt-mle.zip
 
 <img src="https://github.com/user-attachments/assets/3e94a93e-be9d-45aa-928b-86635466ec53" alt="Dashboard MII-D Proof of Concept" width="20%"/>
+
+<img 
+    src="https://github.com/user-attachments/assets/3e94a93e-be9d-45aa-928b-86635466ec53" 
+    alt="Dashboard MII-D Proof of Concept" 
+    width="40%"
+    style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
+/>
+

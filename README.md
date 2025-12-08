@@ -29,3 +29,5 @@ Mentor Manoel Veríssimo
 Status: Concluída 📅
 
 Projeto final: projeto-mkt-mle.zip
+
+<img width="698" height="1366" alt="image" src="https://github.com/user-attachments/assets/3e94a93e-be9d-45aa-928b-86635466ec53" />

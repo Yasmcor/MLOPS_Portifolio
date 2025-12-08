@@ -27,4 +27,5 @@ Mentorada: Yasmin Correia
 Mentor Manoel Veríssimo 
 
 Status: Concluída 📅
+
 Projeto final: projeto-mkt-mle.zip

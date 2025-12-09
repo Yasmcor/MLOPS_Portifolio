@@ -20,9 +20,22 @@ Minha meta é atuar como uma Engenheira de ML que, futuramente, utilizará essa 
 O programa está dividido em módulos temáticos, seguindo a jornada completa de um projeto de ML, desde a concepção até a sustentação:
 
 🛠️ Stack Principal
-<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/> <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Badge"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn Badge"/> <img src="https://img.shields.io/badge/MLflow-009688?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLFlow Badge"/> <img src="https://img.shields.io/badge/DVC-13B765?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC Badge"/> </p>
-    <img src="https://img.shields.io/badge/MLflow-009688?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLFlow Badge"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Badge"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/> <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Badge"/> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn Badge"/> <img src="https://img.shields.io/badge/MLflow-009688?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLFlow Badge"/> <img src="https://img.shields.io/badge/DVC-13B765?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC Badge"/> <img src="https://img.shields.io/badge/MLflow-009688?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLFlow Badge"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Badge"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
     </p>
+
+
+<p align="left">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+    <img src="https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Badge"/>
+    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn Badge"/>
+    
+    <img src="https://img.shields.io/badge/MLflow-009688?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLFlow Badge"/>
+    <img src="https://img.shields.io/badge/DVC-13B765?style=for-the-badge&logo=dvc&logoColor=white" alt="DVC Badge"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
+    
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI Badge"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
+</p>
 
 Mentorada: Yasmin Correia 
 

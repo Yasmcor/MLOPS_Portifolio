@@ -56,3 +56,11 @@ Classificar um filme como **Sucesso 🚀** ou **Fracasso 📉** com base em *fea
 
 <img alt="image" src="https://github.com/user-attachments/assets/f85d9564-37eb-4c92-9cc0-46e0f212e03a" alt="Dashboard MII-D Proof of Concept" width="20%"/>
 
+<div style="text-align: center;">
+    <img 
+        src="https://github.com/user-attachments/assets/3e94a93e-be9d-45aa-928b-86635466ec53" 
+        alt="Dashboard MII-D Proof of Concept" 
+        width="40%"
+        style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); display: block; margin: 0 auto;"
+    />
+</div>

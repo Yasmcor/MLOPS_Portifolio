@@ -54,5 +54,5 @@ Classificar um filme como **Sucesso 🚀** ou **Fracasso 📉** com base em *fea
 * **Sazonalidade:** O investimento em marketing deve ser concentrado nos picos de sucesso: **Junho, Julho e Dezembro**.
 * **Gênero (ROI):** Prioridade de investimento nos gêneros de maior retorno: **Animação, Ficção Científica e Aventura**.
 
-<img alt="image" src="https://github.com/user-attachments/assets/f85d9564-37eb-4c92-9cc0-46e0f212e03a" alt="Dashboard MII-D Proof of Concept" width="20%"/>
+<img alt="image" src="https://github.com/user-attachments/assets/f85d9564-37eb-4c92-9cc0-46e0f212e03a" alt="Dashboard MII-D Proof of Concept" width="30%"/>
 

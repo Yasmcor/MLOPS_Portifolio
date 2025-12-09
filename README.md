@@ -31,7 +31,8 @@ O programa está dividido em módulos temáticos, seguindo a jornada completa de
 ## Projeto final: projeto-mkt-mle.zip
 ## 🚀 Resumo do Projeto Final: Otimização de Marketing (MII-D)
 
-Hoje, o desafio não é mais criar modelos & IA's é vencer a Inação da Execução.
+# Hoje, o desafio não é mais criar modelos & IA's é vencer a Inação da Execução.
+
 O principal problema da liderança hoje é a Inação. A espera pelo "modelo perfeito" e a demora na implantação faz com que a solução perca o valor em um mercado em constante mudança.
 Desperdiçar verba em projetos com baixo potencial ou perder o timing do mercado é um grande Risco Financeiro do Marketing. 
 

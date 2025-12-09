@@ -31,6 +31,13 @@ O programa está dividido em módulos temáticos, seguindo a jornada completa de
 ## Projeto final: projeto-mkt-mle.zip
 ## 🚀 Resumo do Projeto Final: Otimização de Marketing (MII-D)
 
+Hoje, o desafio não é mais criar modelos & IA's é vencer a Inação da Execução.
+O principal problema da liderança hoje é a Inação. A espera pelo "modelo perfeito" e a demora na implantação faz com que a solução perca o valor em um mercado em constante mudança.
+Desperdiçar verba em projetos com baixo potencial ou perder o timing do mercado é um grande Risco Financeiro do Marketing. 
+
+Esta solução busca predizer o sucesso potencial de novos filmes ou avalia-los como "alto risco". Assim, apoiando o investimento em divulgação no marketing.
+
+A entrega do MVP prioriza a velocidade e a confiabilidade sobre a complexidade desnecessária.
 O **MII-D (Movies Investment Intelligence Dashboard)** é um projeto de **Classificação Binária** que visa **vencer a inação na execução** e otimizar o ROI de marketing antes do lançamento de um filme.
 
 ### 🎯 Missão de Negócio
@@ -60,4 +67,5 @@ Classificar um filme como **Sucesso 🚀** ou **Fracasso 📉** com base em *fea
 | 📊 Métrica de Performance | 🖼️ Prova de Conceito | 🚀 Deployment (MLOps) |
 | :--- | :--- | :--- |
 | A modelagem priorizou o **F1-Score (0.4562)**. Isso garante um balanço entre: <ul><li>**Recall (77%):** Capturar sucessos reais.</li><li>**Precisão (32%):** Evitar falsos positivos.</li></ul> | <img src="https://github.com/user-attachments/assets/f85d9564-37eb-4c92-9cc0-46e0f212e03a" alt="Dashboard MII-D App" width="100%" style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);"/> | O modelo foi empacotado em **Contêiner Docker** e servido via **FastAPI** para alta performance. Demonstra **TTV** (Time to Value) e a transição para **Produto de Dados** em tempo real. |
+
 

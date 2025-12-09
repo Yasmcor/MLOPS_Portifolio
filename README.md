@@ -28,7 +28,7 @@ O programa está dividido em módulos temáticos, seguindo a jornada completa de
     </p>
 
 
-Projeto final: projeto-mkt-mle.zip
+## Projeto final: projeto-mkt-mle.zip
 ## 🚀 Resumo do Projeto Final: Otimização de Marketing (MII-D)
 
 O **MII-D (Movies Investment Intelligence Dashboard)** é um projeto de **Classificação Binária** que visa **vencer a inação na execução** e otimizar o ROI de marketing antes do lançamento de um filme.

@@ -29,6 +29,7 @@ O programa está dividido em módulos temáticos, seguindo a jornada completa de
 
 
 ## Projeto final: projeto-mkt-mle.zip
+
 ## 🚀 Resumo do Projeto Final: Otimização de Marketing (MII-D)
 
 # Hoje, o desafio não é mais criar modelos & IA's é vencer a Inação da Execução.

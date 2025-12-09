@@ -56,23 +56,20 @@ Classificar um filme como **Sucesso 🚀** ou **Fracasso 📉** com base em *fea
 
 <img alt="image" src="https://github.com/user-attachments/assets/f85d9564-37eb-4c92-9cc0-46e0f212e03a" alt="Dashboard MII-D Proof of Concept" width="30%"/>
 
+## ⚙️ Módulo 3: Deployment e Serviço (Time to Value)
 
-<div style="display: flex; justify-content: space-between; width: 100%; gap: 15px;">
-    
-    <div style="flex: 1; min-width: 30%; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
-        **TESTE COLUNA 1**
-        <p>Aqui vai o texto da sua primeira coluna. Foco na métrica de performance.</p>
-    </div>
+### 3.1. Construção do Serviço do Modelo (Mentoria Pergunta 6)
 
-    <div style="flex: 1; min-width: 30%; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
-        **TESTE COLUNA 2**
-        <p>Aqui vai a sua imagem (ou o vídeo). Este é o espaço visual central.</p>
-    </div>
+*Texto da Coluna 1 (Performance)*
 
-    <div style="flex: 1; min-width: 30%; padding: 10px; border: 1px solid #ccc; border-radius: 5px;">
-        **TESTE COLUNA 3**
-        <p>Aqui vai o texto da terceira coluna. Foco no MLOps e Deployment.</p>
-    </div>
+---
 
-</div>
+### 🖼️ Prova de Conceito (Imagem)
 
+![Dashboard MII-D Proof of Concept](URL_DA_SUA_IMAGEM_AQUI)
+
+---
+
+### 🚀 Deployment (MLOps)
+
+*Texto da Coluna 3 (Deployment)*

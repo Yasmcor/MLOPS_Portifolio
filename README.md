@@ -74,7 +74,7 @@ Classificar um filme como **Sucesso 🚀** ou **Fracasso 📉** com base em *fea
         ### 🖼️ Prova de Conceito
         
         <img 
-            src="URL_DA_SUA_IMAGEM_AQUI" 
+            src="https://github.com/user-attachments/assets/f85d9564-37eb-4c92-9cc0-46e0f212e03a" 
             alt="Dashboard MII-D App" 
             width="100%"
             style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);"

@@ -61,3 +61,45 @@ Classificar um filme como **Sucesso 🚀** ou **Fracasso 📉** com base em *fea
 | :--- | :--- | :--- |
 | A modelagem priorizou o **F1-Score (0.4562)**. Isso garante um balanço entre: <ul><li>**Recall (77%):** Capturar sucessos reais.</li><li>**Precisão (32%):** Evitar falsos positivos.</li></ul> | <img src="https://github.com/user-attachments/assets/f85d9564-37eb-4c92-9cc0-46e0f212e03a" alt="Dashboard MII-D App" width="100%" style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);"/> | O modelo foi empacotado em **Contêiner Docker** e servido via **FastAPI** para alta performance. Demonstra **TTV** (Time to Value) e a transição para **Produto de Dados** em tempo real. |
 
+
+## 🔗 Acesso à API e Uso
+
+# 1. Endpoint Principal de Predição
+O modelo está disponível através do endpoint /predict. Ele aceita dados formatados em JSON e retorna a probabilidade de sucesso.
+URL Base: 
+Método: POST
+
+# 2. Exemplo de Requisição (JSON Body)
+JSON
+
+{
+"title": "Novo Filme de Aventura",
+"overview": "Sinopse sobre um grupo de heróis em busca de um tesouro antigo.",
+"release_date": "AAAA-MM-DD",
+"original_language": "en",
+"Action": 1,
+"Adventure": 1,
+"Animation": 0,
+/* ... (Incluir as 63 features restantes, conforme src/constants.py) ... */
+}
+
+# 3. Exemplo de Resposta
+CampoTipoDescriçãopredictionStringResultado da classificação de negócio (ex: "SUCESSO").probabilityFloatProbabilidade bruta de sucesso (ex: 0.73, ou 73%).confidence_f1_scoreFloatO F1-Score do modelo em produção (0.4562).
+
+#4. Como Testar a API (Via cURL)
+Para testar rapidamente a API via terminal, use o seguinte comando de exemplo (substitua a URL e os dados):
+Bash
+
+curl -X 'POST' \
+'[Insira aqui a URL do seu /predict endpoint]' \
+-H 'Content-Type: application/json' \
+-d '{
+"title": "The Flash",
+"overview": "Super-herói viaja no tempo...",
+"release_date": "2024-03-12",
+"original_language": "en",
+"Action": 1,
+"Thriller": 1,
+"Drama": 0
+/* ... demais features ... */
+}'

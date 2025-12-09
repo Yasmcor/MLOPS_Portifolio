@@ -54,10 +54,10 @@ Classificar um filme como **Sucesso 🚀** ou **Fracasso 📉** com base em *fea
 * **Sazonalidade:** O investimento em marketing deve ser concentrado nos picos de sucesso: **Junho, Julho e Dezembro**.
 * **Gênero (ROI):** Prioridade de investimento nos gêneros de maior retorno: **Animação, Ficção Científica e Aventura**.
 
-<img alt="image" src="https://github.com/user-attachments/assets/f85d9564-37eb-4c92-9cc0-46e0f212e03a" alt="Dashboard MII-D Proof of Concept" width="30%"/>
 
 ### 💡 Módulo 2: Resultados Chave e Deployment
 
 | 📊 Métrica de Performance | 🖼️ Prova de Conceito | 🚀 Deployment (MLOps) |
 | :--- | :--- | :--- |
-| Nossa modelagem priorizou o **F1-Score (0.4562)**. Isso garante um balanço entre: <ul><li>**Recall (77%):** Capturar sucessos reais.</li><li>**Precisão (32%):** Evitar falsos positivos.</li></ul> | <img src="https://github.com/user-attachments/assets/f85d9564-37eb-4c92-9cc0-46e0f212e03a" alt="Dashboard MII-D App" width="100%" style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);"/> | O modelo foi empacotado em **Contêiner Docker** e servido via **FastAPI** para alta performance. Demonstra **TTV** (Time to Value) e a transição para **Produto de Dados** em tempo real. |
+| A modelagem priorizou o **F1-Score (0.4562)**. Isso garante um balanço entre: <ul><li>**Recall (77%):** Capturar sucessos reais.</li><li>**Precisão (32%):** Evitar falsos positivos.</li></ul> | <img src="https://github.com/user-attachments/assets/f85d9564-37eb-4c92-9cc0-46e0f212e03a" alt="Dashboard MII-D App" width="100%" style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);"/> | O modelo foi empacotado em **Contêiner Docker** e servido via **FastAPI** para alta performance. Demonstra **TTV** (Time to Value) e a transição para **Produto de Dados** em tempo real. |
+

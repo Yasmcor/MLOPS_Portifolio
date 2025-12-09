@@ -56,20 +56,41 @@ Classificar um filme como **Sucesso 🚀** ou **Fracasso 📉** com base em *fea
 
 <img alt="image" src="https://github.com/user-attachments/assets/f85d9564-37eb-4c92-9cc0-46e0f212e03a" alt="Dashboard MII-D Proof of Concept" width="30%"/>
 
-## ⚙️ Módulo 3: Deployment e Serviço (Time to Value)
+<div style="display: flex; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
 
-### 3.1. Construção do Serviço do Modelo (Mentoria Pergunta 6)
+    <div style="flex: 1; min-width: 30%; max-width: 33%;">
+        
+        ### 📊 Métrica de Performance
+        
+        Nossa modelagem priorizou o **F1-Score (0.4562)** em vez da acurácia. Isso garante um balanço entre:
+        
+        * **Recall (77%):** Capturar a maioria dos sucessos reais (evitando a perda de receita).
+        * **Precisão (32%):** Evitar falsos positivos (evitando investimentos caros em projetos ruins).
+        
+    </div>
 
-*Texto da Coluna 1 (Performance)*
+    <div style="flex: 1; min-width: 30%; max-width: 33%; text-align: center;">
+        
+        ### 🖼️ Prova de Conceito
+        
+        <img 
+            src="URL_DA_SUA_IMAGEM_AQUI" 
+            alt="Dashboard MII-D App" 
+            width="100%"
+            style="border-radius: 8px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);"
+        />
+        
+    </div>
 
----
+    <div style="flex: 1; min-width: 30%; max-width: 33%;">
+        
+        ### 🚀 Deployment (MLOps)
+        
+        O modelo foi empacotado em **Contêiner Docker** e servido via **FastAPI** para alta performance.
+        
+        * **TTV:** Demonstra **Time to Value** rápido.
+        * **Consumo:** Integrado a um dashboard **PoC (FlutterFlow)** para uso imediato do Marketing.
+        
+    </div>
 
-### 🖼️ Prova de Conceito (Imagem)
-
-![Dashboard MII-D Proof of Concept](URL_DA_SUA_IMAGEM_AQUI)
-
----
-
-### 🚀 Deployment (MLOps)
-
-*Texto da Coluna 3 (Deployment)*
+</div>

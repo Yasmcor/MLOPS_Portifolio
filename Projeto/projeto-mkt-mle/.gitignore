@@ -19,3 +19,4 @@ data/processed/
 # Arquivos de Notebooks temporários
 .ipynb_checkpoints/
 ngrok
+.DS_Store

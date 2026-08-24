@@ -1,6 +1,7 @@
 # 🎓 Programa de Mentoria: Machine Learning e MLOps em Produção
 
-### Este repositório é desenvolvido sob a tutoria especializada de Manoel Veríssimo. Ele serve como o hub central para o meu programa de desenvolvimento e portfólio prático em Machine Learning (ML) e MLOps (Machine Learning Operations)
+### Este repositório é desenvolvido sob a tutoria especializada de Manoel Veríssimo. Ele serve como o hub central para o meu programa de desenvolvimento e portfólio prático em **Ciência de Dados, Machine Learning (ML) e MLOps (Machine Learning Operations)**
+
 
 O objetivo deste programa é fazer uma transição robusta e prática, focando em como construir, versionar e sustentar modelos de ML em ambientes de produção, integrando minha experiência prévia em DataOps e Qualidade.
 
@@ -14,7 +15,7 @@ Este programa me capacita com as habilidades de engenharia necessárias para:
 * **Desenvolvimento Robusto:** Construir código limpo e versionado, garantindo a reprodutibilidade.
 * **Otimização de Performance:** Entregar modelos que rodam com segurança e baixa latência.
 
-Minha meta é atuar como uma Engenheira de ML que, futuramente, utilizará essa visão de produção para se tornar uma Cientista de Dados de altíssimo impacto.
+Minha meta é atuar como Cientista de Dados, utilizando conhecimentos de ML e MLOps para desenvolver soluções orientadas a dados que sejam confiáveis, reproduzíveis e aplicáveis ao negócio.
 
 🧠 Estrutura da Tutoria
 O programa está dividido em módulos temáticos, seguindo a jornada completa de um projeto de ML, desde a concepção até a sustentação.

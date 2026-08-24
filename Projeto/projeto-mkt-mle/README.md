@@ -111,22 +111,15 @@ O problema **"columns are missing"** foi resolvido no `src/predict.py`, garantin
 
 ---
 
+
 ## 🎯 RESULTADO FINAL
 
-✅ Modelo de Machine Learning integrado à API
-
-✅ API RESTful desenvolvida com FastAPI
-
-✅ Aplicação empacotada em Docker
-
-✅ Dependências com versões fixadas
-
-✅ Modelo ML serializado com `model.pkl`
-
-✅ Alinhamento das **69 features**
-
-✅ Tratamento de features ausentes
-
-✅ Endpoint `/predict` validado
-
-✅ Documentação disponível via Swagger UI
+- ✅ Modelo de Machine Learning integrado à API
+- ✅ API RESTful desenvolvida com FastAPI
+- ✅ Aplicação empacotada em Docker
+- ✅ Dependências com versões fixadas
+- ✅ Modelo ML serializado com `model.pkl`
+- ✅ Alinhamento das **69 features**
+- ✅ Tratamento de features ausentes
+- ✅ Endpoint `/predict` validado
+- ✅ Documentação disponível via Swagger UI

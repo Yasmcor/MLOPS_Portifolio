@@ -2,7 +2,6 @@
 
 ### Este repositório é desenvolvido sob a tutoria especializada de Manoel Veríssimo. Ele serve como o hub central para o meu programa de desenvolvimento e portfólio prático em **Ciência de Dados, Machine Learning (ML) e MLOps (Machine Learning Operations)**
 
-
 O objetivo deste programa é fazer uma transição robusta e prática, focando em como construir, versionar e sustentar modelos de ML em ambientes de produção, integrando minha experiência prévia em DataOps e Qualidade.
 
 🎯 Por Que MLOps?

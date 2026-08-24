@@ -1,0 +1,20 @@
+# Dependências do Python e Ambiente Virtual
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+
+# Logs e Artefatos do MLflow
+mlruns/
+.trash/
+
+# Pastas de Dados (Nunca suba dados grandes para o Git)
+data/raw/
+data/processed/
+
+# Arquivos de Notebooks temporários
+.ipynb_checkpoints/

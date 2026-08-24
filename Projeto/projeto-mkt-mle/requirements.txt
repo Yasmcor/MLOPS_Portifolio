@@ -1,0 +1,9 @@
+# Dependências do Servidor Web e API
+fastapi
+uvicorn
+
+# Dependências de Data Science e ML
+pandas
+joblib
+scikit-learn==1.6.1
+numpy
